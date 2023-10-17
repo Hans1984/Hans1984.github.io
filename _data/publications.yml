@@ -26,12 +26,12 @@ main:
     authors: Bin Chen, Akshay Jindal, Michal Piovarči, <strong>Chao Wang</strong>, Hans-Peter Seidel, Piotr Didyk, Karol Myszkowski, Ana Serrano, Rafał Mantiuk
     conference_short: Siggraph Aisa
     conference: Siggraph Asia Conference Proceeding <strong>(Siggraph Asia)</strong>, 2023.
-    pdf: https://glossmanager.mpi-inf.mpg.de/resource/Glossmanager_SIGGRAPHAsia.pdf
+    pdf: https://stereohdrgloss.mpi-inf.mpg.de/resource/paper_763_saconferencepapers23-93.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://glossmanager.mpi-inf.mpg.de/
+    page: https://stereohdrgloss.mpi-inf.mpg.de/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/SIGA22_teaser.jpeg
+    image: ./assets/img/siga23_teaser.jpeg
 
   - title: "GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild"
     authors: <strong>Chao Wang</strong>, Ana Serrano, Xingang Pan, Bin Chen, Hans-Peter Seidel, Christian Theobalt, Karol Myszkowski, Thomas Leimkühler
