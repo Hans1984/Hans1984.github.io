@@ -66,6 +66,16 @@ main:
     # notes: Oral Presentation
     image: ./assets/img/eg22_teaser.jpeg
 
+  - title: "The Effect of Shape and Illumination on Material Perception: Model and Applications"
+    authors: Ana Serrano, Bin Chen, <strong>Chao Wang</strong>, Michal Piovarči, Hans-Peter Seidel, Piotr Didyk, Karol Myszkowski
+    conference_short: Siggraph
+    conference: ACM Transactions on Graphics (Proc. of <strong>SIGGRAPH Asia</strong> 2021.)
+    pdf: https://mig.mpi-inf.mpg.de/resource/Serrano_SIGG2021_The%20effect%20of%20shape%20and%20illumination%20on%20material%20perception.pdf
+    page: https://mig.mpi-inf.mpg.de/
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/SIG21_teaser.jpeg
+
 
 
     
