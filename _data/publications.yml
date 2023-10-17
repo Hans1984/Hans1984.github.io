@@ -33,6 +33,17 @@ main:
     # notes: Oral Presentation
     image: ./assets/img/glowgan_teaser.png
 
+ - title: "Gloss Management for Consistent Reproduction of Real and Virtual Objects"
+    authors: Bin Chen, Michal Piovarči, Chao Wang, Piotr Didyk, Hans-Peter Seidel, Karol Myszkowski, Ana Serrano
+    conference_short: Siggraph Aisa
+    conference: SIGGRAPH Asia Conference Proceeding 2022
+    pdf: https://glossmanager.mpi-inf.mpg.de/resource/Glossmanager_SIGGRAPHAsia.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://glossmanager.mpi-inf.mpg.de/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/SIGA22_teaser.jpeg
+
   - title: "Learning a self-supervised tone mapping operator via feature contrast masking loss"
     authors: <strong>Chao Wang</strong>, Bin Chen, Hans-Peter Seidel, Karol Myszkowski1, Ana Serrano
     conference_short: EG
