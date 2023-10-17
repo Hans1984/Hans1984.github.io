@@ -18,7 +18,7 @@ I am currently a Phd student in Max-Planck Institute for Informatics, advised by
 - **[Oct. 2023]** One papers is accepted to Siggraph Aisa 2022!
 - **[Dec. 2022]** One papers is accepted to Eurographics 2022!
 - **[May. 2022]** One papers is accepted to TMM!
-- **[Apr. 2022]** One papers is accepted to Siggraph 2022!
+- **[Apr. 2022]** One papers is accepted to Siggraph 2021!
 
 {% include_relative _includes/publications.md %}
 
