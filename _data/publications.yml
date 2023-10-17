@@ -33,10 +33,10 @@ main:
     # notes: Oral Presentation
     image: ./assets/img/glowgan_teaser.png
 
- - title: "Gloss Management for Consistent Reproduction of Real and Virtual Objects"
-    authors: Bin Chen, Michal Piovarči, Chao Wang, Piotr Didyk, Hans-Peter Seidel, Karol Myszkowski, Ana Serrano
-    conference_short: Siggraph Aisa
-    conference: SIGGRAPH Asia Conference Proceeding 2022
+  - title: "GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild"
+    authors: <strong>Chao Wang</strong>, Ana Serrano, Xingang Pan, Bin Chen, Hans-Peter Seidel, Christian Theobalt, Karol Myszkowski, Thomas Leimkühler
+    conference_short: ICCV
+    conference: IEEE/CVF Conference on International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: https://glossmanager.mpi-inf.mpg.de/resource/Glossmanager_SIGGRAPHAsia.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://glossmanager.mpi-inf.mpg.de/
