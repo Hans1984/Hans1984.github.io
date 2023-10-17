@@ -13,10 +13,12 @@ I am currently a Phd student in Max-Planck Institute for Informatics, advised by
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2023]** Two papers are accepted to Siggraph Aisa 2023!
+- **[Agu. 2023]** One paper is accepted to ICCV 2023!
+- **[Oct. 2023]** One papers is accepted to Siggraph Aisa 2022!
+- **[Dec. 2022]** One papers is accepted to Eurographics 2022!
+- **[May. 2022]** One papers is accepted to TMM!
+- **[Apr. 2022]** One papers is accepted to Siggraph 2022!
 
 {% include_relative _includes/publications.md %}
 
