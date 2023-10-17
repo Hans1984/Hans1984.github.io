@@ -11,16 +11,16 @@ main:
     image: ./assets/img/taf_teaser.png
     # notes: Early Accept
 
- - title: "The effect of display capabilities on the gloss consistency between real and virtual objects"
-    authors: Bin Chen, Akshay Jindal, Michal Piovarči, <strong>Chao Wang</strong>, Hans-Peter Seidel, Piotr Didyk, Karol Myszkowski, Ana Serrano, Rafał Mantiuk
-    conference_short: Siggraph Aisa
-    conference: Siggraph Asia Conference Proceeding, <strong>Siggraph Asia</strong>,2023
-    pdf: https://stereohdrgloss.mpi-inf.mpg.de/resource/paper_763_saconferencepapers23-93.pdf
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://stereohdrgloss.mpi-inf.mpg.de/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
-    image: ./assets/img/siga23_teaser.jpeg
+ # - title: "The effect of display capabilities on the gloss consistency between real and virtual objects"
+ #    authors: Bin Chen, Akshay Jindal, Michal Piovarči, <strong>Chao Wang</strong>, Hans-Peter Seidel, Piotr Didyk, Karol Myszkowski, Ana Serrano, Rafał Mantiuk
+ #    conference_short: Siggraph Aisa
+ #    conference: Siggraph Asia Conference Proceeding, <strong>(Siggraph Asia)</strong>,2023
+ #    pdf: https://stereohdrgloss.mpi-inf.mpg.de/resource/paper_763_saconferencepapers23-93.pdf
+ #    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+ #    page: https://stereohdrgloss.mpi-inf.mpg.de/
+ #    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+ #    # notes: Oral Presentation
+ #    image: ./assets/img/siga23_teaser.jpeg
 
   - title: "GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild"
     authors: <strong>Chao Wang</strong>, Ana Serrano, Xingang Pan, Bin Chen, Hans-Peter Seidel, Christian Theobalt, Karol Myszkowski, Thomas Leimkühler
@@ -33,16 +33,16 @@ main:
     # notes: Oral Presentation
     image: ./assets/img/glowgan_teaser.png
 
- # - title: "Gloss Management for Consistent Reproduction of Real and Virtual Objects"
- #    authors: Bin Chen, Michal Piovarči, Chao Wang, Piotr Didyk, Hans-Peter Seidel, Karol Myszkowski, Ana Serrano
- #    conference_short: Siggraph Aisa
- #    conference: SIGGRAPH Asia Conference Proceeding 2022
- #    pdf: https://glossmanager.mpi-inf.mpg.de/resource/Glossmanager_SIGGRAPHAsia.pdf
- #    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
- #    page: https://glossmanager.mpi-inf.mpg.de/
- #    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
- #    # notes: Oral Presentation
- #    image: ./assets/img/SIGA22_teaser.jpeg
+ - title: "Gloss Management for Consistent Reproduction of Real and Virtual Objects"
+    authors: Bin Chen, Michal Piovarči, Chao Wang, Piotr Didyk, Hans-Peter Seidel, Karol Myszkowski, Ana Serrano
+    conference_short: Siggraph Aisa
+    conference: SIGGRAPH Asia Conference Proceeding 2022
+    pdf: https://glossmanager.mpi-inf.mpg.de/resource/Glossmanager_SIGGRAPHAsia.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://glossmanager.mpi-inf.mpg.de/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/SIGA22_teaser.jpeg
 
   - title: "Learning a self-supervised tone mapping operator via feature contrast masking loss"
     authors: <strong>Chao Wang</strong>, Bin Chen, Hans-Peter Seidel, Karol Myszkowski1, Ana Serrano
