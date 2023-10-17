@@ -36,7 +36,7 @@ main:
   - title: "GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild"
     authors: <strong>Chao Wang</strong>, Ana Serrano, Xingang Pan, Bin Chen, Hans-Peter Seidel, Christian Theobalt, Karol Myszkowski, Thomas Leimkühler
     conference_short: ICCV
-    conference: IEEE/CVF Conference on International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
+    conference: Siggraph Asia Conference Proceeding <strong>(Siggraph Asia)</strong>, 2023
     pdf: https://glossmanager.mpi-inf.mpg.de/resource/Glossmanager_SIGGRAPHAsia.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://glossmanager.mpi-inf.mpg.de/
