@@ -14,10 +14,21 @@ main:
   - title: "GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild"
     authors: <strong>Chao Wang</strong>, Ana Serrano, Xingang Pan, Bin Chen, Hans-Peter Seidel, Christian Theobalt, Karol Myszkowski, Thomas Leimkühler
     conference_short: ICCV
-    conference: IEEE/CVF Conference on International Conference on Computer Vision <strong>(ICCV)</strong>, 2020.
+    conference: IEEE/CVF Conference on International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: https://glowgan.mpi-inf.mpg.de/resource/glowgan.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://glowgan.mpi-inf.mpg.de/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     image: ./assets/img/teaser_glowgan.png
+
+  - title: "Learning a self-supervised tone mapping operator via feature contrast masking loss"
+    authors: <strong>Chao Wang</strong>, Bin Chen, Hans-Peter Seidel, Karol Myszkowski1, Ana Serrano
+    conference_short: EG
+    conference: Computer Graphics Forum (Proc. of <strong>Eurographics <strong></strong>, 2022.
+    pdf: https://self-supervisedtmo.mpi-inf.mpg.de/resource/Learning%20a%20self-supervised%20tone%20mapping%20operator%20via%20feature%20contrast%20masking%20loss.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://self-supervisedtmo.mpi-inf.mpg.de/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/teaser_self_tmo.png
