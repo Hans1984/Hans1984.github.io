@@ -1,7 +1,7 @@
 main:
 
   - title: "An Implicit Neural Representation for the Image Stack: Depth, All in Focus, and High Dynamic Range"
-    authors: <strong>Chao Wang</strong>, Ana Serrano, Xingang Pan, Krzysztof Wolski, Bin Chen, Hans-Peter Seidel, Christian Theobalt, Karol Myszkowski,  Thomas Leimkühler
+    authors: <strong>Chao Wang</strong>, Ana Serrano, Xingang Pan, Krzysztof Wolski, Bin Chen, Hans-Peter Seidel, Christian Theobalt, Karol Myszkowski, Thomas Leimkühler
     conference_short: Siggraph Aisa
     conference: ACM Transactions on Graphics (Proc. of <strong>SIGGRAPH Asia</strong> 2023.)
     pdf: https://taf.mpi-inf.mpg.de/resource/An%20Implicit%20Neural%20Representation%20for%20the%20Image%20Stack:%20Depth,%20All%20in%20Focus,%20and%20High%20Dynamic%20Range.pdf
