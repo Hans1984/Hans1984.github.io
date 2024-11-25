@@ -8,7 +8,7 @@ main:
     page: https://cinegs.mpi-inf.mpg.de/
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/Teaser_v05.png
+    image: ./assets/img/Teaser_v05_1.png
 
   - title: "An Implicit Neural Representation for the Image Stack: Depth, All in Focus, and High Dynamic Range"
     authors: <strong>Chao Wang</strong>, Ana Serrano, Xingang Pan, Krzysztof Wolski, Bin Chen, Hans-Peter Seidel, Christian Theobalt, Karol Myszkowski, Thomas Leimkühler
