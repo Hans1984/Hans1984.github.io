@@ -12,7 +12,7 @@ I am currently a Phd student in Max-Planck Institute for Informatics, advised by
 - **Computer Graphics:** nerual rendering, material appearance perception.
 
 ## News
-- **[Agu. 2024]** One papers is accepted to Pacific Grafics 2024 (CGF)!
+- **[Agu. 2024]** One papers is accepted to Pacific Graphics 2024 (CGF)!
 - **[Oct. 2023]** Two papers are accepted to Siggraph Asia 2023!
 - **[Agu. 2023]** One paper is accepted to ICCV 2023!
 - **[Oct. 2022]** One paper is accepted to Siggraph Asia 2022!
