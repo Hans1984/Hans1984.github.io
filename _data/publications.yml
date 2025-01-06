@@ -8,7 +8,7 @@ main:
     page: https://lediff.mpi-inf.mpg.de/
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_lediff.png
+    image: ./assets/img/taf_teaser.png
 
   - title: "Cinematic Gaussians:  Real-Time HDR Radiance Fields with Depth of Field"
     authors: <strong>Chao Wang</strong>, Krzysztof Wolski, Bernhard Kerbl, Ana Serrano, Mojtaba Bemana, Hans-Peter Seidel, Karol Myszkowski, Thomas Leimkühler
