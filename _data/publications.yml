@@ -1,11 +1,11 @@
 main:
 
   - title: "LEDiff: Latent Exposure Diffusion for HDR Generation"
-    authors: <strong>Chao Wang</strong>, Ana Serrano, Xingang Pan, Krzysztof Wolski, Bin Chen, Hans-Peter Seidel, Christian Theobalt, Karol Myszkowski, Thomas Leimkühler
+    authors: <strong>Chao Wang</strong>, Zhihao Xia, Thomas Leimkühler, Karol Myszkowski, Xuaner Zhang
     conference_short: Siggraph Aisa
     conference: ACM Transactions on Graphics (Proc. of <strong>SIGGRAPH Asia</strong> 2023.)
-    pdf: https://taf.mpi-inf.mpg.de/resource/An%20Implicit%20Neural%20Representation%20for%20the%20Image%20Stack:%20Depth,%20All%20in%20Focus,%20and%20High%20Dynamic%20Range.pdf
-    page: https://taf.mpi-inf.mpg.de/
+    pdf: https://lediff.mpi-inf.mpg.de/resource/LEDiff_Latent_Exposure_Diffusion_for_HDR_Generation.pdf
+    page: https://lediff.mpi-inf.mpg.de/
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_lediff.png
