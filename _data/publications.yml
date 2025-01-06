@@ -1,6 +1,6 @@
 main:
 
-  - title: "An Implicit Neural Representation for the Image Stack: Depth, All in Focus, and High Dynamic Range"
+  - title: "LEDiff: Latent Exposure Diffusion for HDR Generation"
     authors: <strong>Chao Wang</strong>, Ana Serrano, Xingang Pan, Krzysztof Wolski, Bin Chen, Hans-Peter Seidel, Christian Theobalt, Karol Myszkowski, Thomas Leimkühler
     conference_short: Siggraph Aisa
     conference: ACM Transactions on Graphics (Proc. of <strong>SIGGRAPH Asia</strong> 2023.)
@@ -8,7 +8,7 @@ main:
     page: https://taf.mpi-inf.mpg.de/
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/taf_teaser.png
+    image: ./assets/img/teaser_lediff.png
 
   - title: "Cinematic Gaussians:  Real-Time HDR Radiance Fields with Depth of Field"
     authors: <strong>Chao Wang</strong>, Krzysztof Wolski, Bernhard Kerbl, Ana Serrano, Mojtaba Bemana, Hans-Peter Seidel, Karol Myszkowski, Thomas Leimkühler
