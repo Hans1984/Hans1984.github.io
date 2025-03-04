@@ -2,8 +2,8 @@ main:
 
   - title: "LEDiff: Latent Exposure Diffusion for HDR Generation"
     authors: <strong>Chao Wang</strong>, Zhihao Xia, Thomas Leimkühler, Karol Myszkowski, Xuaner Zhang
-    conference_short: Under Review
-    conference: Under Review
+    conference_short: CVPR2025
+    conference: CVPR2025
     pdf: https://lediff.mpi-inf.mpg.de/resource/LEDiff_Latent_Exposure_Diffusion_for_HDR_Generation.pdf
     page: https://lediff.mpi-inf.mpg.de/
     # code: https://github.com/MrGiovanni/ContinualLearning
