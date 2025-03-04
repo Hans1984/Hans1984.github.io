@@ -12,7 +12,7 @@ I am currently a Phd student in Max-Planck Institute for Informatics, advised by
 - **Computer Graphics:** nerual rendering, material appearance perception.
 
 ## News
-- **[Dec. 2024]** Our new HDR generative model LEDiff is on Arxiv now!
+- **[Dec. 2024]** One paper is accepted to CVPR 2025!
 - **[Agu. 2024]** One papers is accepted to Pacific Graphics 2024 (CGF)!
 - **[Oct. 2023]** Two papers are accepted to Siggraph Asia 2023!
 - **[Agu. 2023]** One paper is accepted to ICCV 2023!
