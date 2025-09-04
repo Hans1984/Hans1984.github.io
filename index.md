@@ -12,6 +12,7 @@ I am currently a Phd student in Max-Planck Institute for Informatics, advised by
 - **Computer Graphics:** nerual rendering, material appearance perception.
 
 ## News
+- **[June. 2025]** We are organizing [Inverse Tone Mapping Workshop](https://cvlai.net/aim/2025/) with AIM ICCV 2025 !
 - **[Dec. 2024]** One paper is accepted to CVPR 2025!
 - **[Agu. 2024]** One papers is accepted to Pacific Graphics 2024 (CGF)!
 - **[Oct. 2023]** Two papers are accepted to Siggraph Asia 2023!
