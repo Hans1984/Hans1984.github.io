@@ -1,7 +1,9 @@
 ## Reviewers
 
 <ul style="margin:0 0 5px;">
+  <li>IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</li>
   <li>ACM Transactions on Graphics (ACM ToG)</li>
+  <li>ACM Siggraph Asia</li>
   <li>IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)</li>
   <li>IEEE Transactions on Image Processing (IEEE TIP)</li>
   <li>IEEE Transactions on Multimedia (IEEE TMM)</li>
