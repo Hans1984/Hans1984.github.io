@@ -1,5 +1,15 @@
 main:
 
+  - title: "ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction"
+    authors: Jie Liang, Jiahao Wu, <strong>Chao Wang<strong>^{digger}, Jiayu Yang, Xiaoyun Zheng, Kaiqiang Xiong, Zhanke Wang, Jinbo Yan, FengGao, Ronggang Wang
+    conference_short: CVPR2026
+    conference: CVPR2026
+    pdf: https://arxiv.org/pdf/2507.02363
+    page: https://github.com/liangjie1999/ClipGStream
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/tesear_puffin.png
+
   - title: "Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation"
     authors: Kang Liao, Size Wu, Zhonghua Wu, Linyi Jin, <strong>Chao Wang<strong>, Yikai Wang, Fei Wang, Wei Li, Chen Change Loy
     conference_short: ICLR2026
