@@ -1,12 +1,15 @@
 ## Program Commitee
 <ul style="margin:0 0 5px;">
   <li>Pacific Graphics 2026 (IPC)</li>
+  <li>ICME 2026 Grand Challenge (Track Chair)</li>
 </ul>
 
 
 ## Reviewers
+
 ### Conferences
-<ul style="margin:0 0 2px;">
+<h3 style="margin:0 0 2px;">Conferences</h3>
+<ul style="margin:0 0 5px; padding-left:20px;">
   <li>ACM Siggraph</li>
   <li>ACM Siggraph Asia</li>
   <li>CVPR 2026</li>
@@ -17,7 +20,8 @@
 </ul>
 
 ### Journals
-<ul style="margin:0 0 2px;">
+<h3 style="margin:0 0 2px;">Journals</h3>
+<ul style="margin:0 0 5px; padding-left:20px;">
   <li>IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</li>
   <li>ACM Transactions on Graphics (ACM ToG)</li>
   <li>IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)</li>
