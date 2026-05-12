@@ -1,5 +1,15 @@
 main:
 
+  - title: "Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation"
+    authors: Liao, Kang Wu, Size and Wu, Zhonghua and Jin, Linyi and Wang, <strong>Chao Wang<strong>, Yikai and Wang, Fei and Li, Wei and Loy, Chen Change
+    conference_short: 
+    conference: ICLR2026
+    pdf: https://arxiv.org/pdf/2510.08673
+    page: https://kangliao929.github.io/projects/puffin/
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/tesear_puffin.png
+
   - title: "LEDiff: Latent Exposure Diffusion for HDR Generation"
     authors: <strong>Chao Wang</strong>, Zhihao Xia, Thomas Leimkühler, Karol Myszkowski, Xuaner Zhang
     conference_short: CVPR2025
