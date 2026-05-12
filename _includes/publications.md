@@ -10,11 +10,11 @@
     <li style="list-style:none;">
       <div class="pub-row" style="display:flex; gap:15px; align-items:flex-start; margin-bottom:25px; flex-wrap:wrap;">
 
-        <!-- 左侧图片：缩窄 -->
-        <div class="col-sm-3 abbr" style="position:relative; padding-right:15px; padding-left:15px; flex:0 0 140px; max-width:140px;">
+        <!-- 左侧图片：宽度固定，高度统一 -->
+        <div class="col-sm-3 abbr" style="position:relative; padding-right:15px; padding-left:15px; flex:0 0 140px; max-width:140px; height:120px; overflow:hidden;">
           {% if link.image %}
           <img src="{{ site.baseurl }}/{{ link.image }}" class="teaser img-fluid z-depth-1" 
-               style="width:100%; height:auto; object-fit:contain; border-radius:4px;">
+               style="width:100%; height:120px; object-fit:cover; border-radius:4px;">
           {% endif %}
 
           <!-- 会议 badge -->
@@ -39,7 +39,7 @@
         <div class="col-sm-9" style="position:relative; padding-right:15px; padding-left:20px; flex:1; min-width:200px;">
           <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
 
-          <!-- 作者 -->
+          <!-- 作者，只在 Chao Wang 后显示 📧 -->
           <div class="author" style="margin:3px 0;">
             {% assign authors_list = link.authors | split: "," %}
             {% for author in authors_list %}
