@@ -13,7 +13,7 @@ I received the M.S. degree in Computer Engineering from Peking University in 202
 - **Computer Graphics:** nerual rendering, material appearance perception.
 
 ## News
-- **[May. 2026]** My Ph.D. thesis received an Honorable Mention for the Eurographics PhD Award 2026.!
+- **[May. 2026]** My Ph.D. thesis received an Honorable Mention for the Eurographics PhD Award 2026!
 - **[Apr. 2026]** One paper is accepted to Siggraph 2026 (ToG)!
 - **[Mar. 2026]** One paper is accepted to CVPR 2026!
 - **[Feb. 2026]** One paper is accepted to ICLR 2026!
