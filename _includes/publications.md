@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px 10px;">
+<!-- <h2 id="publications" style="margin: 2px 0px 10px;">
   Publications 
   <span style="font-size:14px; color:#555; margin-left:10px;">📧 indicates the corresponding author</span>
 </h2>
@@ -71,11 +71,11 @@
     {% endfor %}
 
   </ol>
-</div>
+</div> -->
 
 
 
-<!-- <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+-- <h2 id="publications" style="margin: 2px 0px -15px;">Publications   <span style="font-size:14px; color:#555; margin-left:10px;">📧 indicates the corresponding author</span></h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -127,6 +127,5 @@
 
 </ol>
 </div>
- -->
 
  
