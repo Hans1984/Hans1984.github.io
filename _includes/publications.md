@@ -1,49 +1,56 @@
-<div style="margin-bottom:40px;">
+<h2 id="publications" style="margin: 2px 0px 10px;">Publications</h2>
 
-  <!-- Publications 标题 -->
-  <div style="display:flex; align-items:baseline; gap:10px; margin-bottom:20px;">
-    <h2 style="margin:0; font-size:28px;">Publications</h2>
-    <span style="font-size:14px; color:#555;">📧 indicates the corresponding author</span>
-  </div>
+<div class="publications">
+  <ol class="bibliography">
 
-  <div class="publications">
-    <ol class="bibliography">
-
-      {% for link in site.data.publications.main %}
-      <li style="list-style:none;">
-        <div class="pub-row" style="display:flex; gap:20px; align-items:flex-start; margin-bottom:25px;">
-
-          <!-- 左侧图片 -->
-          <div style="flex:0 0 280px; max-height:200px; overflow:hidden;">
-            {% if link.image %}
-            <img src="{{ site.baseurl }}/{{ link.image }}" 
-                 alt="{{ link.title }}" 
-                 style="width:100%; height:auto; object-fit:contain; border-radius:4px;">
-            {% endif %}
-            {% if link.conference_short %}
-            <abbr class="badge">{{ link.conference_short }}</abbr>
-            {% endif %}
-          </div>
-
-          <!-- 右侧文字 -->
-          <div style="flex:1;">
-            <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-            <div class="author" style="margin:3px 0;">{{ link.authors }}</div>
-            <div class="periodical" style="margin-bottom:5px;"><em>{{ link.conference }}</em></div>
-            <div class="links" style="margin-top:5px;">
-              {% if link.pdf %}<a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">PDF</a>{% endif %}
-              {% if link.code %}<a href="{{ link.code }}" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Code</a>{% endif %}
-              {% if link.page %}<a href="{{ link.page }}" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Project Page</a>{% endif %}
-              {% if link.bibtex %}<a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">BibTex</a>{% endif %}
-            </div>
-          </div>
-
+    {% for link in site.data.publications.main %}
+    <li>
+      <div class="pub-row" style="display:flex; gap:15px; align-items:flex-start; margin-bottom:25px;">
+        
+        <!-- 左侧图片 -->
+        <div class="col-sm-3 abbr" style="position:relative; padding-right:15px; padding-left:15px; flex:0 0 280px;">
+          {% if link.image %} 
+          <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" 
+               style="width:100%; height:auto; object-fit:contain; border-radius:4px;">
+          {% endif %}
+          {% if link.conference_short %} 
+          <abbr class="badge">{{ link.conference_short }}</abbr>
+          {% endif %}
         </div>
-      </li>
-      {% endfor %}
 
-    </ol>
-  </div>
+        <!-- 右侧文字 -->
+        <div class="col-sm-9" style="position:relative; padding-right:15px; padding-left:20px; flex:1;">
+          <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+          <div class="author">{{ link.authors }}</div>
+          <div class="periodical"><em>{{ link.conference }}</em></div>
+          <div class="links" style="margin-top:5px;">
+            {% if link.pdf %} 
+            <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+            {% endif %}
+            {% if link.code %} 
+            <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+            {% endif %}
+            {% if link.page %} 
+            <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+            {% endif %}
+            {% if link.bibtex %} 
+            <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+            {% endif %}
+            {% if link.notes %} 
+            <strong><i style="color:#e74d3c">{{ link.notes }}</i></strong>
+            {% endif %}
+            {% if link.others %} 
+            {{ link.others }}
+            {% endif %}
+          </div>
+        </div>
+
+      </div>
+    </li>
+
+    {% endfor %}
+
+  </ol>
 </div>
 
 
