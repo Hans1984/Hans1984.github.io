@@ -13,11 +13,12 @@ I received the M.S. degree in Computer Engineering from Peking University in 202
 - **Computer Graphics:** nerual rendering, material appearance perception.
 
 ## News
+- **[May. 2026]** My Ph.D. thesis received an Honorable Mention for the Eurographics PhD Award 2026.!
 - **[Apr. 2026]** One paper is accepted to Siggraph 2026 (ToG)!
 - **[Mar. 2026]** One paper is accepted to CVPR 2026!
 - **[Feb. 2026]** One paper is accepted to ICLR 2026!
 - **[Dec. 2025]** We are organizing [Dynamic Gaussian Splatting Compression Challenge](https://www.kaggle.com/competitions/dy-gs-bench-dynamic-3-dgs-compression-icme-2026-grand-challenge) with ICME 2026 !
-- **[June. 2025]** We are organizing [Inverse Tone Mapping Workshop](https://cvlai.net/aim/2025/) with AIM ICCV 2025 !
+- **[Jun. 2025]** We are organizing [Inverse Tone Mapping Workshop](https://cvlai.net/aim/2025/) with AIM ICCV 2025 !
 - **[Feb. 2025]** One paper is accepted to CVPR 2025!
 - **[Agu. 2024]** One papers is accepted to Pacific Graphics 2024 (CGF)!
 - **[Oct. 2023]** Two papers are accepted to Siggraph Asia 2023!
