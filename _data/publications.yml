@@ -1,7 +1,7 @@
 main:
 
   - title: "ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction"
-    authors: Jie Liang, Jiahao Wu, <strong>Chao Wang ✉️</strong>, Jiayu Yang, Xiaoyun Zheng, Kaiqiang Xiong, Zhanke Wang, Jinbo Yan, Feng Gao, Ronggang Wang
+    authors: Jie Liang, Jiahao Wu, <strong>Chao Wang ✉️</strong>, Jiayu Yang, Xiaoyun Zheng, Kaiqiang Xiong, Zhanke Wang, Jinbo Yan, Feng Gao, Ronggang Wang ✉️
     conference_short: CVPR2026
     conference: CVPR2026
     pdf: https://arxiv.org/pdf/2604.13746
