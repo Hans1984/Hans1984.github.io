@@ -1,6 +1,6 @@
-<h2 id="publications" style="margin: 2px 0px 10px; display:flex; align-items:center; gap:10px;">
-  Publications
-  <span style="font-size:14px; color:#555;">📧 indicates the corresponding author</span>
+<h2 id="publications" style="margin: 2px 0px 10px;">
+  Publications 
+  <span style="font-size:14px; color:#555; margin-left:10px;">📧 indicates the corresponding author</span>
 </h2>
 
 <div class="publications">
@@ -10,8 +10,8 @@
     <li style="list-style:none;">
       <div class="pub-row" style="display:flex; gap:15px; align-items:flex-start; margin-bottom:25px; flex-wrap:wrap;">
 
-        <!-- 左侧图片 -->
-        <div class="col-sm-3 abbr" style="position:relative; padding-right:15px; padding-left:15px; flex:0 0 280px; max-width:280px;">
+        <!-- 左侧图片：宽度适中 -->
+        <div class="col-sm-3 abbr" style="position:relative; padding-right:15px; padding-left:15px; flex:0 0 180px; max-width:180px;">
           {% if link.image %}
           <img src="{{ site.baseurl }}/{{ link.image }}" class="teaser img-fluid z-depth-1" 
                style="width:100%; height:auto; object-fit:contain; border-radius:4px;">
