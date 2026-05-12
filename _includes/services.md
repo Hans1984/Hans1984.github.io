@@ -6,7 +6,7 @@
 
 ## Reviewers
 ### Conferences
-<ul style="margin:0 0 5px;">
+<ul style="margin:0 0 2px;">
   <li>ACM Siggraph</li>
   <li>ACM Siggraph Asia</li>
   <li>CVPR 2026</li>
@@ -17,7 +17,7 @@
 </ul>
 
 ### Journals
-<ul style="margin:0 0 5px;">
+<ul style="margin:0 0 2px;">
   <li>IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</li>
   <li>ACM Transactions on Graphics (ACM ToG)</li>
   <li>IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)</li>
