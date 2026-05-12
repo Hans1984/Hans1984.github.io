@@ -6,8 +6,6 @@
 
 
 ## Reviewers
-
-### Conferences
 <h3 style="margin:0 0 2px;">Conferences</h3>
 <ul style="margin:0 0 5px; padding-left:20px;">
   <li>ACM Siggraph</li>
@@ -18,8 +16,6 @@
   <li>Eurographics 2026</li>
   <li>Pacific Graphics 2025</li>
 </ul>
-
-### Journals
 <h3 style="margin:0 0 2px;">Journals</h3>
 <ul style="margin:0 0 5px; padding-left:20px;">
   <li>IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)</li>
