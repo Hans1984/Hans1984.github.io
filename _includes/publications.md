@@ -10,8 +10,8 @@
     <li style="list-style:none;">
       <div class="pub-row" style="display:flex; gap:15px; align-items:flex-start; margin-bottom:25px; flex-wrap:wrap;">
 
-        <!-- 左侧图片：宽度适中 -->
-        <div class="col-sm-3 abbr" style="position:relative; padding-right:15px; padding-left:15px; flex:0 0 180px; max-width:180px;">
+        <!-- 左侧图片：缩窄 -->
+        <div class="col-sm-3 abbr" style="position:relative; padding-right:15px; padding-left:15px; flex:0 0 140px; max-width:140px;">
           {% if link.image %}
           <img src="{{ site.baseurl }}/{{ link.image }}" class="teaser img-fluid z-depth-1" 
                style="width:100%; height:auto; object-fit:contain; border-radius:4px;">
