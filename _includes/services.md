@@ -8,8 +8,8 @@
 ## Reviewers
 <h3 style="margin:0 0 2px;">Conferences</h3>
 <ul style="margin:0 0 5px; padding-left:20px;">
-  <li>ACM Siggraph</li>
-  <li>ACM Siggraph Asia</li>
+  <li>ACM Siggraph 2026 </li>
+  <li>ACM Siggraph Asia 2025</li>
   <li>CVPR 2026</li>
   <li>ECCV 2026</li>
   <li>ACM MM 2026</li>
