@@ -2,7 +2,7 @@ main:
 
   - title: "Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation"
     authors: Kang Liao, Size Wu, Zhonghua Wu, Linyi Jin, <strong>Chao Wang<strong>, Yikai Wang, Fei Wang, Wei Li, Chen Change Loy
-    conference_short: 
+    conference_short: ICLR2026
     conference: ICLR2026
     pdf: https://arxiv.org/pdf/2510.08673
     page: https://kangliao929.github.io/projects/puffin/
