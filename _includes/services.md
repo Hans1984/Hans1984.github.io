@@ -1,6 +1,5 @@
 ## Program Commitee
-<h3 style="margin:0 0 2px;">Conferences</h3>
-<ul style="margin:0 0 5px;">
+<ul style="margin:0 0 5px; padding-left:20px;">
   <li>Pacific Graphics 2026 (IPC)</li>
   <li>ICME 2026 Grand Challenge (Track Chair)</li>
 </ul>
