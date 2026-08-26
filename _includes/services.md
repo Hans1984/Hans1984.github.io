@@ -1,9 +1,15 @@
 ## Program Commitee
 <ul style="margin:0 0 5px; padding-left:20px;">
+  <li>Eurographics 2027 (IPC)</li>
   <li>Pacific Graphics 2026 (IPC)</li>
   <li>ICME 2026 Grand Challenge (Track Chair)</li>
 </ul>
 
+## Organizer
+<ul style="margin:0 0 5px; padding-left:20px;">
+  <li>ICME 2026 Dynamic Gaussian Splatting Compression Challenge</li>
+  <li>ICCV 2025 AIM Workshop</li>
+</ul>
 
 ## Reviewers
 <h3 style="margin:0 0 2px;">Conferences</h3>
