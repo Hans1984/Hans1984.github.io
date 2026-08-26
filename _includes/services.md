@@ -14,6 +14,8 @@
 ## Reviewers
 <h3 style="margin:0 0 2px;">Conferences</h3>
 <ul style="margin:0 0 5px; padding-left:20px;">
+  <li>AAAI 2027</li>
+  <li>Neurips 2026</li>
   <li>ACM Siggraph 2026 </li>
   <li>ACM Siggraph Asia 2024-2026</li>
   <li>CVPR 2026</li>
