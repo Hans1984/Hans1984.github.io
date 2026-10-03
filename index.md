@@ -13,6 +13,8 @@ I received the M.S. degree in Computer Engineering from Peking University in 202
 - **Computer Graphics:** nerual rendering, material appearance perception.
 
 ## News
+- **[Oct. 2026]** I will serve as an Area Chair for ICASSP 2027!
+- **[Sep. 2026]** I am honored to be recognized as an Outstanding Reviewer at ECCV 2026!
 - **[Sep. 2026]** One paper is accepted to Siggraph Asia 2026!
 - **[Agu. 2026]** I will serve on the Eurographics 2027 International Program Committee!
 - **[July. 2026]** Three papers are accepted to ACM MM 2026!
