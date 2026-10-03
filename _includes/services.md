@@ -1,5 +1,6 @@
-## Program Commitee
+## Program Committee
 <ul style="margin:0 0 5px; padding-left:20px;">
+  <li>ICASSP 2027 (AC)</li>
   <li>Eurographics 2027 (IPC)</li>
   <li>Pacific Graphics 2026 (IPC)</li>
   <li>ICME 2026 Grand Challenge (Track Chair)</li>
