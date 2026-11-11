@@ -1,0 +1,20 @@
+Wood background texture
+
+Asset: Ash Veneer
+Author: Jenelle van Heerden
+Provider: Poly Haven
+Asset page: https://polyhaven.com/a/ash_veneer
+License page: https://polyhaven.com/license
+License: Creative Commons CC0 1.0 Universal (public domain dedication)
+License reference: https://creativecommons.org/publicdomain/zero/1.0/
+The asset may be used, modified, redistributed, and self-hosted, including commercial use. Attribution is not required by the CC0 dedication.
+
+Original file: 1K Diffuse JPG (the actual color map, not a preview render)
+Source download: https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/ash_veneer/ash_veneer_diff_1k.jpg
+Official files manifest: https://api.polyhaven.com/files/ash_veneer
+Original dimensions: 1024 x 1024 pixels
+Source MD5 (verified against official manifest): 5be48b4be87620998cfaee5a4281169d
+Retrieved: 2026-11-11
+
+Web derivative: wood-texture.webp, 1024 x 1024 pixels, WebP quality 86.
+Only format/compression was changed; no synthetic texture, recoloring, or image generation was used.

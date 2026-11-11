@@ -1,6 +1,6 @@
 # Chao Wang — Academic Homepage
 
-个人学术主页，基于 Jekyll，继续使用 GitHub Pages。正式入口为 `index.md`，不依赖远程主题、第三方字体或图标 CDN。
+个人学术主页，基于 Jekyll，继续使用 GitHub Pages。正式入口为 `index.md`，字体和木纹素材随站点自托管，不依赖远程主题或第三方字体、图标 CDN。
 
 ## 本地预览
 
@@ -20,7 +20,9 @@ bundle exec jekyll serve
 - `_data/publications.yml`：所有论文；`selected: true` 的论文显示在首页。当前精选为 10 篇一作或通讯作者论文，其余 4 篇保留在数据中。`year` 为年份，`topic` 保留研究方向分类（`rendering` 或 `imaging`），精选列表直接展示，不设置额外筛选。共同一作使用 `*`，通讯作者保留 `✉️` 标记。论文标题为纯文字。页面链接统一为 **Paper / Project Page**，分别来自 `pdf` / `page`；为空时不生成链接。`pdf` 也可填写 arXiv HTML 或出版社论文页面。`doi` 和 `dataset` 仅保留为元数据，不单独显示。
 - `_data/news.yml`：News，按时间倒序；日期用引号包裹。首页显示最新 5 条，其余可展开。
 - `_data/activities.yml`：报告、委员会、组织活动及审稿记录。
-- `assets/css/home.css`：统一配色与响应式样式。链接深绿 `#28584F`、会议信息砖红 `#A64E43`，背景近白 `#FDFDFB`；深色模式有单独的对比度配色。
+- `assets/css/home.css`：统一配色与响应式样式。链接深绿 `#28584F`、会议信息砖红 `#A64E43`，浅白蜡木背景与暖白阅读区；深色模式有单独的对比度配色。
+- `assets/fonts/`：SIGGRAPH 论文模板所用的 Linux Libertine 正体、粗体与斜体，完整字形的 WOFF2；许可和来源随字体保存。
+- `assets/img/wood-texture.webp`：Poly Haven 的 Ash Veneer 真实木纹，CC0；来源见同目录 `wood-texture-source.txt`。正文采用接近不透明的暖白阅读区，深色模式使用深色阅读区。
 - `_layouts/homepage.html` 和 `_includes/`：页面布局与各部分模板。
 
 论文条目示例：

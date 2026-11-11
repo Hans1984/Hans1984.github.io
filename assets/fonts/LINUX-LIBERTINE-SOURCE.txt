@@ -1,0 +1,18 @@
+Linux Libertine 5.3.0 by Philipp H. Poll
+
+Original project: https://linuxlibertine.org/
+Official release: https://sourceforge.net/projects/linuxlibertine/files/linuxlibertine/5.3.0/
+Font sources: CTAN libertine 5.3.0 package, https://ctan.org/pkg/libertine
+Retrieved OTF mirror: https://mirror.latigo.net/ctan/fonts/libertine/opentype/
+OTF files: LinLibertine_R.otf, LinLibertine_RB.otf, LinLibertine_RI.otf
+License: SIL Open Font License 1.1, copied from the original author release.
+
+Webfont preparation: lossless WOFF2 compression with fontTools.ttLib.woff2.compress,
+transform_tables=set(). No subsetting or changes to glyphs, shaping, names,
+authorship or licensing metadata. Original font tables are preserved, apart
+from the checksum adjustment and WOFF2-standard lossless-transform flag.
+
+Internal font family: Linux Libertine O
+Regular: weight 400, normal
+Bold: weight 700, normal
+Italic: weight 400, italic
