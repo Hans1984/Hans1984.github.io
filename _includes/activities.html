@@ -1,0 +1,7 @@
+<section class="section activities" id="service" aria-labelledby="service-title">
+  <div class="section-heading"><h2 id="service-title">Talks &amp; service</h2></div>
+  <div class="activity-grid"><div class="talks"><h3>Invited talks</h3><ul class="talk-list">{% for talk in site.data.activities.talks %}<li><p class="activity-date">{{ talk.label }}</p><h4>{{ talk.title }}</h4><p>{{ talk.host }}</p></li>{% endfor %}</ul></div>
+    <div><h3>Program committee</h3><ul class="service-list">{% for item in site.data.activities.program_committee %}<li><span>{{ item.name }} {{ item.year }}</span><span class="role">{{ item.role }}</span></li>{% endfor %}</ul><h3 class="organizing-title">Organizing</h3><ul class="plain-list">{% for item in site.data.activities.organizing %}<li>{{ item.name }} · {{ item.year }}</li>{% endfor %}</ul></div>
+  </div>
+  <section class="reviewing-section" aria-labelledby="reviewing-title"><h3 class="reviewing-title" id="reviewing-title">Conference &amp; journal reviewing</h3><div class="reviewing-grid"><div><h4>Conferences</h4><ul class="plain-list">{% for item in site.data.activities.reviewing_conferences %}<li>{{ item.name }} · {{ item.years }}</li>{% endfor %}</ul></div><div><h4>Journals</h4><ul class="plain-list">{% for journal in site.data.activities.reviewing_journals %}<li>{{ journal }}</li>{% endfor %}</ul></div></div></section>
+</section>

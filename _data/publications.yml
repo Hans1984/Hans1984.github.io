@@ -1,127 +1,145 @@
 main:
-
-  - title: "ATGS: Anchored Temporal Gaussian Splatting for Long Volumetric Video Representation"
+  - title: 'FocalGS: Adaptive Focal 3D Gaussian Splatting for Continuous Zoom Rendering'
+    authors: Zeyu Liu*, <strong>Chao Wang* ✉️</strong>, Jiahao Wu, Jie Liang, Ronggang Wang ✉️
+    conference_short: SIGGRAPH Asia 2026
+    conference: SIGGRAPH Asia 2026 Conference Papers
+    pdf: null
+    page: https://lzy021205.github.io/FocalGS/
+    doi: https://doi.org/10.1145/3829340.3842186
+    image: ./assets/img/teaser_focalgs.webp
+    year: 2026
+    topic: rendering
+    selected: true
+  - title: 'DyGS-Dataset: A High-Fidelity and Temporal-stable Dynamic 3DGS Dataset'
+    authors: Xiang Li, Wenhui Song, <strong>Chao Wang ✉️</strong>, Jiayu Yang, Jiahao Wu, Jie Liang, Kaiqiang Xiong, Ronggang Wang ✉️
+    conference_short: ACM MM 2026
+    conference: Proceedings of the 34th ACM International Conference on Multimedia (MM ’26), 2026
+    pdf: https://dl.acm.org/doi/10.1145/3767308.3835091
+    page: null
+    dataset: https://huggingface.co/datasets/LeeXiangNO1/DyNativeGaussian_sequence
+    doi: https://doi.org/10.1145/3767308.3835091
+    image: ./assets/img/teaser_dygs_dataset.webp
+    year: 2026
+    topic: rendering
+    selected: true
+  - title: 'ADSEC: One-Step Adversarial Diffusion with Single-Stage Encoder for Extreme Image Compression'
+    authors: Jiaxian Xu, Wei Jiang, Feng Wang, Hongwei Hu, Qi Wang, Qunshan Gu, Feng Gao, <strong>Chao Wang ✉️</strong>, Ronggang Wang ✉️
+    conference_short: ACM MM 2026
+    conference: Proceedings of the 34th ACM International Conference on Multimedia (MM ’26), 2026
+    pdf: https://dl.acm.org/doi/10.1145/3767308.3835394
+    page: null
+    doi: https://doi.org/10.1145/3767308.3835394
+    image: ./assets/img/teaser_adsec.webp
+    year: 2026
+    topic: imaging
+    selected: true
+  - title: 'ATGS: Anchored Temporal Gaussian Splatting for Long Volumetric Video Representation'
     authors: Jiahao Wu, Jie Liang, Die Hu, Jiayu Yang, Xiaoyun Zheng, Kaiqiang Xiong, Xiang Li, <strong>Chao Wang ✉️</strong>, Ronggang Wang ✉️
-    conference_short: Siggraph 2026 (ToG)
-    conference: Siggraph 2026 
-    pdf: 
-    page: 
+    conference_short: SIGGRAPH 2026 (ToG)
+    conference: SIGGRAPH 2026
+    pdf: https://arxiv.org/html/2608.30184v1
+    page: https://wujh2001.github.io/ATGS/
     image: ./assets/img/teaser_atgs.png
-
-  - title: "ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction"
+    year: 2026
+    topic: rendering
+    selected: true
+  - title: 'ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction'
     authors: Jie Liang, Jiahao Wu, <strong>Chao Wang ✉️</strong>, Jiayu Yang, Xiaoyun Zheng, Kaiqiang Xiong, Zhanke Wang, Jinbo Yan, Feng Gao, Ronggang Wang ✉️
-    conference_short: CVPR2026
-    conference: CVPR2026
+    conference_short: CVPR 2026
+    conference: CVPR 2026
     pdf: https://arxiv.org/pdf/2604.13746
     page: https://github.com/liangjie1999/ClipGStream
     image: ./assets/img/teaser_clipGStream_small.png
-  
-  - title: "Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation"
+    year: 2026
+    topic: rendering
+    selected: true
+  - title: 'Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation'
     authors: Kang Liao, Size Wu, Zhonghua Wu, Linyi Jin, <strong>Chao Wang</strong>, Yikai Wang, Fei Wang, Wei Li, Chen Change Loy
-    conference_short: ICLR2026
-    conference: ICLR2026
+    conference_short: ICLR 2026
+    conference: ICLR 2026
     pdf: https://arxiv.org/pdf/2510.08673
     page: https://kangliao929.github.io/projects/puffin/
     image: ./assets/img/tesear_puffin.png
-    
-  - title: "LEDiff: Latent Exposure Diffusion for HDR Generation"
+    year: 2026
+    topic: multimodal
+    selected: false
+  - title: 'LEDiff: Latent Exposure Diffusion for HDR Generation'
     authors: <strong>Chao Wang</strong>, Zhihao Xia, Thomas Leimkühler, Karol Myszkowski, Xuaner Zhang
-    conference_short: CVPR2025
-    conference: CVPR2025
+    conference_short: CVPR 2025
+    conference: CVPR 2025
     pdf: https://lediff.mpi-inf.mpg.de/resource/LEDiff_Latent_Exposure_Diffusion_for_HDR_Generation.pdf
     page: https://lediff.mpi-inf.mpg.de/
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_lediff.png
-
-  - title: "Cinematic Gaussians:  Real-Time HDR Radiance Fields with Depth of Field"
+    year: 2025
+    topic: imaging
+    selected: true
+  - title: 'Cinematic Gaussians:  Real-Time HDR Radiance Fields with Depth of Field'
     authors: <strong>Chao Wang</strong>, Krzysztof Wolski, Bernhard Kerbl, Ana Serrano, Mojtaba Bemana, Hans-Peter Seidel, Karol Myszkowski, Thomas Leimkühler
     conference_short: Pacific Graphics
     conference: Computer Graphics Forum (Proc. of <strong>Pacific Graphics</strong> 2024.)
     pdf: https://cinegs.mpi-inf.mpg.de/resource/PG2024_CRC.pdf
     page: https://cinegs.mpi-inf.mpg.de/
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Teaser_v05_1.png
-
-  - title: "An Implicit Neural Representation for the Image Stack: Depth, All in Focus, and High Dynamic Range"
+    year: 2024
+    topic: rendering
+    selected: true
+  - title: 'An Implicit Neural Representation for the Image Stack: Depth, All in Focus, and High Dynamic Range'
     authors: <strong>Chao Wang</strong>, Ana Serrano, Xingang Pan, Krzysztof Wolski, Bin Chen, Hans-Peter Seidel, Christian Theobalt, Karol Myszkowski, Thomas Leimkühler
-    conference_short: Siggraph Aisa (ToG)
+    conference_short: SIGGRAPH Asia (ToG)
     conference: ACM Transactions on Graphics (Proc. of <strong>SIGGRAPH Asia</strong> 2023.)
     pdf: https://taf.mpi-inf.mpg.de/resource/An%20Implicit%20Neural%20Representation%20for%20the%20Image%20Stack:%20Depth,%20All%20in%20Focus,%20and%20High%20Dynamic%20Range.pdf
     page: https://taf.mpi-inf.mpg.de/
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/taf_teaser.png
-    # notes: Early Accept
-
- # - title: "The effect of display capabilities on the gloss consistency between real and virtual objects"
- #    authors: Bin Chen, Akshay Jindal, Michal Piovarči, <strong>Chao Wang</strong>, Hans-Peter Seidel, Piotr Didyk, Karol Myszkowski, Ana Serrano, Rafał Mantiuk
- #    conference_short: Siggraph Aisa
- #    conference: Siggraph Asia Conference Proceeding <strong>(Siggraph Asia)</strong>, 2023.
- #    pdf: https://stereohdrgloss.mpi-inf.mpg.de/resource/paper_763_saconferencepapers23-93.pdf
- #    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
- #    page: https://stereohdrgloss.mpi-inf.mpg.de/
- #    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
- #    # notes: Oral Presentation
- #    image: ./assets/img/siga23_teaser.jpeg
-
-  - title: "The effect of display capabilities on the gloss consistency between real and virtual objects"
+    year: 2023
+    topic: imaging
+    selected: true
+  - title: The effect of display capabilities on the gloss consistency between real and virtual objects
     authors: Bin Chen, Akshay Jindal, Michal Piovarči, <strong>Chao Wang</strong>, Hans-Peter Seidel, Piotr Didyk, Karol Myszkowski, Ana Serrano, Rafał Mantiuk
-    conference_short: Siggraph Aisa
-    conference: Siggraph Asia Conference Proceeding <strong>(Siggraph Asia)</strong>, 2023.
+    conference_short: SIGGRAPH Asia
+    conference: SIGGRAPH Asia Conference Proceedings <strong>(SIGGRAPH Asia)</strong>, 2023.
     pdf: https://stereohdrgloss.mpi-inf.mpg.de/resource/paper_763_saconferencepapers23-93.pdf
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://stereohdrgloss.mpi-inf.mpg.de/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
     image: ./assets/img/siga23_teaser.jpeg
-
-  - title: "GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild"
+    year: 2023
+    topic: perception
+    selected: false
+  - title: 'GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild'
     authors: <strong>Chao Wang</strong>, Ana Serrano, Xingang Pan, Bin Chen, Hans-Peter Seidel, Christian Theobalt, Karol Myszkowski, Thomas Leimkühler
     conference_short: ICCV
-    conference: IEEE/CVF Conference on International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
+    conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: https://glowgan.mpi-inf.mpg.de/resource/glowgan.pdf
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://glowgan.mpi-inf.mpg.de/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
     image: ./assets/img/glowgan_teaser.png
-
-  - title: "Gloss Management for Consistent Reproduction of Real and Virtual Objects"
+    year: 2023
+    topic: imaging
+    selected: true
+  - title: Gloss Management for Consistent Reproduction of Real and Virtual Objects
     authors: Bin Chen, Michal Piovarči, <strong>Chao Wang</strong>, Piotr Didyk, Hans-Peter Seidel, Karol Myszkowski, Ana Serrano
-    conference_short: Siggraph Aisa
-    conference: Siggraph Asia Conference Proceeding <strong>(Siggraph Asia)</strong>, 2022.
+    conference_short: SIGGRAPH Asia
+    conference: SIGGRAPH Asia Conference Proceedings <strong>(SIGGRAPH Asia)</strong>, 2022.
     pdf: https://glossmanager.mpi-inf.mpg.de/resource/Glossmanager_SIGGRAPHAsia.pdf
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://glossmanager.mpi-inf.mpg.de/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
     image: ./assets/img/SIGA22_teaser.jpeg
-
-  - title: "Learning a self-supervised tone mapping operator via feature contrast masking loss"
+    year: 2022
+    topic: perception
+    selected: false
+  - title: Learning a self-supervised tone mapping operator via feature contrast masking loss
     authors: <strong>Chao Wang</strong>, Bin Chen, Hans-Peter Seidel, Karol Myszkowski, Ana Serrano
     conference_short: EG
     conference: Computer Graphics Forum (Proc. of <strong>Eurographics</strong>, 2022.)
     pdf: https://self-supervisedtmo.mpi-inf.mpg.de/resource/Learning%20a%20self-supervised%20tone%20mapping%20operator%20via%20feature%20contrast%20masking%20loss.pdf
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://self-supervisedtmo.mpi-inf.mpg.de/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
     image: ./assets/img/eg22_teaser.jpeg
-
-  - title: "The Effect of Shape and Illumination on Material Perception: Model and Applications"
+    year: 2022
+    topic: imaging
+    selected: true
+  - title: 'The Effect of Shape and Illumination on Material Perception: Model and Applications'
     authors: Ana Serrano, Bin Chen, <strong>Chao Wang</strong>, Michal Piovarči, Hans-Peter Seidel, Piotr Didyk, Karol Myszkowski
-    conference_short: Siggraph
+    conference_short: SIGGRAPH
     conference: ACM Transactions on Graphics (Proc. of <strong>SIGGRAPH</strong> 2021.)
     pdf: https://mig.mpi-inf.mpg.de/resource/Serrano_SIGG2021_The%20effect%20of%20shape%20and%20illumination%20on%20material%20perception.pdf
     page: https://mig.mpi-inf.mpg.de/
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/SIG21_teaser.jpeg
-
-
-
-    
-    
-
+    year: 2021
+    topic: perception
+    selected: false

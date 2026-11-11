@@ -1,0 +1,11 @@
+{% if site.visitor_counter.image_url %}
+<section class="section visitor-section" id="visitors" aria-labelledby="visitors-title">
+  <div class="section-heading"><h2 id="visitors-title">Visitors</h2></div>
+  <div class="visitor-content">
+    <a class="visitor-counter" href="{{ site.visitor_counter.stats_url }}" rel="noopener noreferrer"><img data-counter-src="{{ site.visitor_counter.image_url }}" alt="Visitor counts by country and region. Open the detailed visitor statistics." width="{{ site.visitor_counter.width | default: 460 }}" loading="eager" referrerpolicy="strict-origin-when-cross-origin"></a>
+    <p class="visitor-note">Country/region counts · <a href="{{ site.visitor_counter.stats_url }}">View statistics</a> · Powered by <a href="{{ site.visitor_counter.provider_url }}">{{ site.visitor_counter.provider }}</a>.</p>
+    <p class="counter-preview-note" hidden>Visitor statistics are enabled on the live website.</p>
+    <noscript><p><a href="{{ site.visitor_counter.stats_url }}">View visitor statistics</a>.</p></noscript>
+  </div>
+</section>
+{% endif %}

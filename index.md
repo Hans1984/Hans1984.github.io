@@ -2,34 +2,23 @@
 layout: homepage
 ---
 
-## About Me
+<section class="profile" id="about" aria-labelledby="profile-title">
+  <div class="profile-intro">
+    <div class="profile-copy">
+      <h1 id="profile-title">Chao Wang</h1>
+      <p class="profile-role">Computer graphics &amp; computer vision</p>
+      <p class="profile-description">I am a researcher working on neural rendering, 3D reconstruction, and computational photography.</p>
+      <div class="profile-links"><a href="mailto:{{ site.email }}">Email</a><a href="{{ site.google_scholar }}">Google Scholar</a><a href="{{ site.cv_link | relative_url }}">CV</a><a href="{{ site.github_link }}">GitHub</a></div>
+    </div>
+    <img class="portrait" src="{{ site.avatar | relative_url }}" alt="Chao Wang" width="2540" height="3265" fetchpriority="high">
+  </div>
+  <div class="bio" id="bio" aria-labelledby="bio-title">
+    <h2 id="bio-title">Bio</h2>
+    <div class="bio-copy"><p>I received my Ph.D. from the Max Planck Institute for Informatics, advised by <a href="https://people.mpi-inf.mpg.de/~karol/">Prof. Karol Myszkowski</a> and <a href="https://people.mpi-inf.mpg.de/~hpseidel/">Prof. Hans-Peter Seidel</a>. I also worked closely with <a href="https://ana-serrano.github.io/">Prof. Ana Serrano</a> and <a href="https://people.mpi-inf.mpg.de/~tleimkue/">Prof. Thomas Leimkühler</a>. My Ph.D. thesis received an <a href="https://www.eg.org/wp/eurographics-awards-programme/phd-award/#:~:text=Chao%20Wang">Honorable Mention for the Eurographics PhD Award 2026</a>. I received my M.S. in Computer Engineering from Peking University in 2020, advised by <a href="https://www.ece.pku.edu.cn/info/1046/2147.htm">Prof. Ronggang Wang</a>, and my B.S. in Information Engineering from the University of Electronic Science and Technology of China in 2017. I was a Research Scientist Intern at Adobe’s Next Cam Lab, working with <a href="https://graphics.stanford.edu/~levoy/">Prof. Marc Levoy</a> and <a href="https://ceciliavision.github.io/">Dr. Cecilia Zhang</a>. Previously, I interned as an Algorithm Research Scientist at Tencent Robotics X Lab, mentored by <a href="https://ygling2008.github.io/">Dr. Yonggen Ling</a>, and was a research assistant at the <a href="https://ucalgary.ca/labs/spatial-intelligence/home">Spatial Intelligence Lab, University of Calgary</a>, advised by <a href="https://profiles.ucalgary.ca/ruisheng-wang">Prof. Ruisheng Wang</a>.</p></div>
+  </div>
+</section>
 
-I am a researcher working on neural rendering, 3D reconstruction, and computational photography. I received my Ph.D. from the Max Planck Institute for Informatics, where I was advised by [Prof. Karol Myszkowski](https://people.mpi-inf.mpg.de/~karol/) and [Prof. Hans-Peter Seidel](https://people.mpi-inf.mpg.de/~hpseidel/). I also worked closely with [Prof. Ana Serrano](https://ana-serrano.github.io/) and [Dr. Thomas Leimkühler](https://people.mpi-inf.mpg.de/~tleimkue/). My Ph.D. thesis received an Honorable Mention for the [Eurographics PhD Award](https://www.eg.org/wp/eurographics-awards-programme/phd-award/).
-I received the M.S. degree in Computer Engineering from Peking University in 2020, advised by [Prof. Ronggang Wang](https://www.ece.pku.edu.cn/info/1046/2147.htm), and the B.S. degree in Information Engineering from the University of Electronic Science and Technology of China in 2017. I was a Research Scientist Intern at Adobe's Next Cam Lab from July 2024 to September 2024, working with [Marc Levoy](https://graphics.stanford.edu/~levoy/) and [Cecilia Zhang](https://ceciliavision.github.io/). Prior to that, I interned as an Algorithm Research Scientist at Tencent Robotics X Lab from December 2019 to June 2020, under the mentorship of [Yonggen Ling](https://ygling2008.github.io/). I was also a research assitant at the [Spatial Intelligence Lab, University Of Calgary](https://ucalgary.ca/labs/spatial-intelligence/home) from May 2016 to September 2016, advised by [Prof. Ruisheng Wang](https://profiles.ucalgary.ca/ruisheng-wang).
-
-
-## News
-- **[Oct. 2026]** I will serve as an Area Chair for ICASSP 2027!
-- **[Sep. 2026]** I am honored to be recognized as an Outstanding Reviewer at ECCV 2026!
-- **[Sep. 2026]** One paper is accepted to Siggraph Asia 2026!
-- **[Agu. 2026]** I will serve on the Eurographics 2027 International Program Committee!
-- **[July. 2026]** Three papers are accepted to ACM MM 2026!
-- **[May. 2026]** I will serve on the Pacific Graphics 2026 International Program Committee!
-- **[May. 2026]** My Ph.D. thesis received an Honorable Mention for the Eurographics PhD Award 2026!
-- **[Apr. 2026]** One paper is accepted to Siggraph 2026 (ToG)!
-- **[Mar. 2026]** One paper is accepted to CVPR 2026!
-- **[Feb. 2026]** One paper is accepted to ICLR 2026!
-- **[Dec. 2025]** We are organizing [Dynamic Gaussian Splatting Compression Challenge](https://www.kaggle.com/competitions/dy-gs-bench-dynamic-3-dgs-compression-icme-2026-grand-challenge) with ICME 2026 !
-- **[Jun. 2025]** We are organizing [Inverse Tone Mapping Workshop](https://cvlai.net/aim/2025/) with AIM ICCV 2025 !
-- **[Feb. 2025]** One paper is accepted to CVPR 2025!
-- **[Agu. 2024]** One papers is accepted to Pacific Graphics 2024 (CGF)!
-- **[Oct. 2023]** Two papers are accepted to Siggraph Asia 2023!
-- **[Agu. 2023]** One paper is accepted to ICCV 2023!
-- **[Oct. 2022]** One paper is accepted to Siggraph Asia 2022!
-- **[Dec. 2021]** One paper is accepted to Eurographics 2022 (CGF)!
-- **[May. 2021]** One paper is accepted to TMM!
-- **[Apr. 2021]** One paper is accepted to Siggraph 2021!
-
-{% include_relative _includes/publications.md %}
-{% include_relative _includes/Talks.md %}
-{% include_relative _includes/services.md %}
+{% include news.html %}
+{% include publications.md %}
+{% include activities.html %}
+{% include visitors.html %}

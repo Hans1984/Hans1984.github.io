@@ -1,0 +1,64 @@
+talks:
+  - title: 'X Media: from pixel to Immersive World'
+    host: The Hong Kong University of Science and Technology
+    date: '2026-07'
+    label: Jul 2026
+  - title: 'Progress in 3D Gaussian Splatting Standardization'
+    host: Zhejiang University
+    date: '2026-05'
+    label: May 2026
+  - title: 'Deep Learning Based High Dynamic Range Imaging: Reconstruction, Generation and Visualization'
+    host: Computational Imaging Lab, Princeton University
+    date: '2025-02'
+    label: Feb 2025
+  - title: From Reconstruction to Generation for HDR Content Acquisition
+    host: Peking University
+    date: '2024-01'
+    label: Jan 2024
+program_committee:
+  - name: ICASSP
+    year: 2027
+    role: Area Chair
+  - name: Eurographics
+    year: 2027
+    role: International Program Committee
+  - name: Pacific Graphics
+    year: 2026
+    role: International Program Committee
+  - name: ICME Grand Challenge
+    year: 2026
+    role: Track Chair
+organizing:
+  - name: ICME Dynamic Gaussian Splatting Compression Challenge
+    year: 2026
+  - name: ICCV AIM Workshop
+    year: 2025
+reviewing_conferences:
+  - name: AAAI
+    years: '2027'
+  - name: NeurIPS
+    years: '2026'
+  - name: ACM SIGGRAPH
+    years: '2026'
+  - name: ACM SIGGRAPH Asia
+    years: 2024–2026
+  - name: CVPR
+    years: '2026'
+  - name: ECCV
+    years: '2026'
+  - name: ACM MM
+    years: '2026'
+  - name: Eurographics
+    years: '2026'
+  - name: Pacific Graphics
+    years: 2025–2026
+reviewing_journals:
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
+  - ACM Transactions on Graphics (ACM ToG)
+  - IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG)
+  - IEEE Transactions on Image Processing (IEEE TIP)
+  - IEEE Transactions on Multimedia (IEEE TMM)
+  - IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
+  - Computer Graphics Forum (CGF, Wiley / Eurographics Association)
+  - IEEE Signal Processing Letters (IEEE SPL)
+  - Computers & Graphics (C&G, Elsevier)

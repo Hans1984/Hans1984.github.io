@@ -1,50 +1,30 @@
-# Basic Information 
+# Personal information and public links
 title: Chao Wang
-# position: Ph.D. Student
-# affiliation: Max-Planck-Institut für Informatik
+tagline: Computer Graphics & Vision
 email: winchao1984@gmail.com
+url: https://hans1984.github.io
+baseurl: ""
+lang: en
 
-# Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+description: Chao Wang researches neural rendering, 3D reconstruction, and computational photography. Selected publications, news, and academic service.
+keywords: Chao Wang, neural rendering, 3D reconstruction, computational photography, HDR imaging
 
-# Links 
-# If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=NK-i21YAAAAJ&hl=zh-CN
-cv_link: assets/files/Chao_CV.pdf
+cv_link: /assets/files/Chao_CV.pdf
 github_link: https://github.com/Hans1984/
-# linkedin: https://www.linkedin.com/
-# twitter: https://twitter.com/
+avatar: /assets/img/photo.jpeg
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/photo.jpeg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+# Dedicated Flag Counter: country/region visitor totals and overall pageviews.
+visitor_counter:
+  image_url: https://s05.flagcounter.com/count2/o5tE/bg_FAF8F3/txt_245C4F/border_FAF8F3/columns_3/maxflags_12/viewers_0/labels_1/pageviews_1/flags_1/percent_0/
+  stats_url: https://info.flagcounter.com/o5tE
+  provider: Flag Counter
+  provider_url: https://flagcounter.com/
+  width: 460
 
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
-
-# Auto Dark Mode
-# You may use the option to disable the automatic dark theme
-auto_dark_mode: true
-
-# Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
-
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
-
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
-
-# The following files will be removed from the generated website.
+markdown: kramdown
+kramdown:
+  input: GFM
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -53,5 +33,7 @@ exclude:
   - README_zh_Hant.md
   - README_de.md
   - LICENSE
-  - minimal-light.gemspec
-  - html_source_file/
+  - html_source_file
+  - scripts
+  - vendor
+  - .bundle
