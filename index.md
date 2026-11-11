@@ -6,7 +6,6 @@ layout: homepage
   <div class="profile-intro">
     <div class="profile-copy">
       <h1 id="profile-title">Chao Wang</h1>
-      <p class="profile-role">Computer graphics &amp; computer vision</p>
       <p class="profile-description">I am a researcher working on neural rendering, 3D reconstruction, and computational photography.</p>
       <div class="profile-links"><a href="mailto:{{ site.email }}">Email</a><a href="{{ site.google_scholar }}">Google Scholar</a><a href="{{ site.cv_link | relative_url }}">CV</a><a href="{{ site.github_link }}">GitHub</a></div>
     </div>
