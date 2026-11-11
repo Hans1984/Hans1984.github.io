@@ -113,7 +113,7 @@ details[open] > summary > span { transform: rotate(45deg); }
 .visitor-section h2 { font-size: 15px; }
 .visitor-content { min-width: 0; margin-top: 12px; }
 .visitor-counter { display: inline-block; max-width: 100%; }
-.visitor-counter img { max-width: 100%; height: auto; }
+.visitor-counter img { width: auto; max-width: 100%; height: auto; }
 .visitor-note, .counter-preview-note { color: var(--muted); font-size: 11px; line-height: 1.8; margin-top: 8px; }
 .site-footer { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 12px; margin-top: 32px; padding-bottom: 32px; color: var(--muted); font-size: 11px; }
 .site-footer a { color: var(--muted); }

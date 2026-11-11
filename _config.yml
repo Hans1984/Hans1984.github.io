@@ -20,7 +20,6 @@ visitor_counter:
   stats_url: https://info.flagcounter.com/o5tE
   provider: Flag Counter
   provider_url: https://flagcounter.com/
-  width: 460
 
 markdown: kramdown
 kramdown:
